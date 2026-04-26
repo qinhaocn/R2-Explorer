@@ -20,7 +20,7 @@
     </a>
 </p>
 
-# R2-Explorer
+# R2-Explorerw
 
 R2-Explorer brings a familiar Google Drive-like interface to your Cloudflare R2 storage buckets, making file management simple and intuitive.
 
