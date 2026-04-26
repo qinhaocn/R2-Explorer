@@ -67,7 +67,7 @@ R2-Explorer transforms your Cloudflare R2 storage experience with a modern, user
     - Logpush files
   - In-browser file editing
   - Folder upload support
-
+hao
 - **📧 Email Integration**
   - Receive and process emails via Cloudflare Email Routing
   - View email attachments directly in the interface
