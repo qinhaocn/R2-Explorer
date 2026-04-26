@@ -29,7 +29,7 @@ R2-Explorer brings a familiar Google Drive-like interface to your Cloudflare R2 
 ## Quick Links
 
 - 📚 **Documentation**: [r2explorer.com](https://r2explorer.com)
-- 🎮 **Live Demo**: [demo.r2explorer.com](https://demo.r2explorer.com)
+- 🎮 **Live 3Demo**: [demo.r2explorer.com](https://demo.r2explorer.com)
 - 💻 **Source Code**: [github.com/G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer)
 
 Available in multiple languages:
