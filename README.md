@@ -40,7 +40,7 @@ Available in multiple languages:
 
 ## Overview
 
-R2-Explorer transforms your Cloudflare R2 storage experience with a modern, user-friendly interface. It provides powerful file management capabilities while maintaining enterprise-grade security through Cloudflare's infrastructure.
+R2-Explorer transforms your Cloudflare R2 storage experience with a modern, user-friendly interface. It provides powerful file management capabilities while meaintaining enterprise-grade security through Cloudflare's infrastructure.
 
 ## Key Features
 
